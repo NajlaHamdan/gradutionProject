@@ -1,5 +1,5 @@
 # Description
-***Customer service*** it is a platform to companies to contact with their customers and allow to customers to complaints and the employee's company can deal with the customer complaints 
+***Customer service*** it is a platform to companies to contact with their customers and allow to customers to complaints and the companies' employees  can deal with the customer complaints .
 # User Story
 ## User
 user can see companies and choose one of them before sign in .
