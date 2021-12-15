@@ -1,5 +1,7 @@
-# user story
-## user
+# Description
+***Customer service*** it is a platform to companies to contact with their customers and allow to customers to complaints and the employee's company can deal with the customer complaints 
+# User Story
+## User
 user can see companies and choose one of them before sign in .
 after sign in user will be able to do the following :
 - after sign in user can do the following :  
@@ -10,13 +12,13 @@ after sign in user will be able to do the following :
 - make ticket completed : user can make his ticket completed .
 - give feedback after ticket completed : if the user make ticket completed he can give feedback about the service .
 - get his profile : user can see his profile and update his information .
-## employee
+## Employee
 employee will be sign up by the admin .
 after sign in employee will be able to do the following :
 - get tickets : see tickets of his company and choose one to solve it .
 - reply to ticket : employee can reply to user .
 - close ticket : employee can close the ticket after the problem has been resolved.
-## admin
+## Admin
 admin has the company account .
 after sign in admin will be able to do the following :
 - create employees : create employees for his company and see numbers of employees  .
@@ -26,4 +28,3 @@ admin can see the following dashboards :
 - NO. employee
 - NO. tickets generated in each day .
 - NO. tickets closed by each employee .
- 
