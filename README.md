@@ -1,11 +1,12 @@
 # user story
 - logout 
 ## user
-- sign up
-- sign in 
-- create ticket
-- get ticket 
-- update ticket 
+- user can see companies and choose one of them before sign in .
+- user must be sign in to create complain and see other feaures .
+- after sign up and sign in user can do the following :  
+- create ticket : to specific company and talk with one employee from the company .
+- get ticket : see his ticket details .
+- update ticket ⏫
 - delete ticket
 - make ticket completed
 - give feedback after ticket completed
